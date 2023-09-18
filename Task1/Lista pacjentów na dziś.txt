@@ -1,0 +1,3 @@
+Kolejka pacjentów:
+Pacjent 1: sd sfd 32 32 null
+Pacjent 2: ds fd 432 324 null
